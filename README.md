@@ -23,6 +23,3 @@ streamlit run app.py
 ## 📊 System Workflow
 Resume Upload → Text Extraction → NLP Preprocessing → 
 Skill Matching → Score Calculation → Eligibility Decision
-
-## 📸 Screenshot
-(Add your app screenshot here)
